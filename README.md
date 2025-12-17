@@ -1,8 +1,6 @@
-![](https://komarev.com/ghpvc/?username=douglazcandido&color=2B8A8A)
-
 <br/>
 
-# 👨🏻‍💻 Douglas Candido
+# Douglas Candido
 
 **`Analytics Engineer`**
 
@@ -12,7 +10,7 @@ Atualmente, curso Ciência de Dados na FIAP e atuo como Engenheiro Analítico em
 
 ---
 
-### 🤖 Tecnologias
+### Tecnologias
 
 <img 
     align="left" 
@@ -76,7 +74,7 @@ Atualmente, curso Ciência de Dados na FIAP e atuo como Engenheiro Analítico em
     title="n8n" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" 
+    src="https://n8n.io/favicon.ico" 
 />
 <img 
     align="left" 
@@ -122,7 +120,7 @@ Atualmente, curso Ciência de Dados na FIAP e atuo como Engenheiro Analítico em
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
