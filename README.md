@@ -1,16 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=douglazcandido&color=2B8A8A)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2B8A8A&center=true&vCenter=true&width=700&lines=Data+Engineer;Data+Analyst;Data Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2B8A8A&center=true&vCenter=true&width=700&lines=Data+Engineer;Data+Analyst;Data+Scientist" alt="Typing SVG" />
 </div>
 
 <br/>
 
-## 👋 Olá, meu nome é <strong>Douglas Candido!</strong>
+## Hi, I'm Douglas Candido.</strong>
 - 💼 &nbsp;Data Engineer at CredFlex.  
 - 🎓 &nbsp;Data Science student at FIAP. 
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;Stacks </h3>
 
 <div align="center">
 
