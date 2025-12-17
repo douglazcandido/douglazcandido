@@ -50,7 +50,7 @@ Atualmente, curso Ciência de Dados na FIAP e atuo como Engenheiro Analítico em
     title="Databricks" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/databricks.svg" 
 />
 <img 
     align="left" 
@@ -66,7 +66,7 @@ Atualmente, curso Ciência de Dados na FIAP e atuo como Engenheiro Analítico em
     title="Power BI" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg" 
 />
 <img 
     align="left" 
@@ -82,7 +82,7 @@ Atualmente, curso Ciência de Dados na FIAP e atuo como Engenheiro Analítico em
     title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" 
 />
 <img 
     align="left" 
