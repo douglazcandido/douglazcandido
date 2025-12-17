@@ -72,14 +72,6 @@ Atualmente, curso Ciência de Dados na FIAP e atuo como Engenheiro Analítico em
 />
 <img 
     align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
-/>
-<img 
-    align="left" 
     alt="n8n"
     title="n8n" 
     width="30px" 
@@ -158,3 +150,22 @@ Atualmente, curso Ciência de Dados na FIAP e atuo como Engenheiro Analítico em
 <br/>
 <br/>
 <br/>
+
+## 📫 Contato
+
+<p align="left">
+    <a href="https://linkedin.com/in/douglazcandido">
+        <img 
+            alt="LinkedIn" 
+            title="Me siga no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="mailto:douglazcandido@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Me envie um email" 
+            src="https://custom-icon-badges.demolab.com/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+</p>
