@@ -1,16 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=douglazcandido&color=2B8A8A)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2B8A8A&center=true&vCenter=true&width=700&lines=Data+Engineer;Data+Analyst;Especialista+em+Pipelines+de+Dados;ETL+%7C+Automa%C3%A7%C3%B5es+%7C+Big+Data;Head+de+Dados+(em+constru%C3%A7%C3%A3o);Estudante+de+Ci%C3%AAncia+de+Dados+na+FIAP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2B8A8A&center=true&vCenter=true&width=700&lines=Data+Engineer;Data+Analyst;Data Scientist" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ## 👋 Olá, meu nome é <strong>Douglas Candido!</strong>
-- 💼 &nbsp;Data Engineer | Data Analyst.  
-- 🎓 &nbsp;Estudante de Ciência de Dados na FIAP.  
-- 🔭 &nbsp;Explorando Data Engineering, ETL Pipelines e Automações.  
-- 🌱 &nbsp;Aprendendo mais sobre Big Data e Machine Learning.  
+- 💼 &nbsp;Data Engineer at CredFlex.  
+- 🎓 &nbsp;Data Science student at FIAP. 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
