@@ -10,7 +10,7 @@ Atualmente, curso Ciência de Dados na FIAP e atuo como Engenheiro Analítico em
 
 ---
 
-### Tecnologias
+### Stack
 
 <img 
     align="left" 
