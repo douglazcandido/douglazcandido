@@ -50,7 +50,7 @@ Atualmente, curso Ciência de Dados na FIAP e atuo como Engenheiro Analítico em
     title="Databricks" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/databricks.svg" 
+    src="https://cdn.simpleicons.org/databricks/FF3621" 
 />
 <img 
     align="left" 
