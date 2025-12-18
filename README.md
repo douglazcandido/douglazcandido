@@ -1,5 +1,3 @@
-<br/>
-
 # Douglas Candido
 
 **`Analytics Engineer`**
