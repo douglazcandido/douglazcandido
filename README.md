@@ -10,7 +10,6 @@ Atualmente, curso Ciência de Dados na FIAP e atuo como Engenheiro Analítico em
 
 ### Stack
 
-
 [![My Skills](https://skillicons.dev/icons?i=python,supabase,docker,aws,mongodb,git,linux,postgres,fastapi,vscode,redis)](https://skillicons.dev)
 
 ---
