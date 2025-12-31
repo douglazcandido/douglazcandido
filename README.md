@@ -34,11 +34,4 @@ Atualmente, curso Ciência de Dados na FIAP e atuo como Engenheiro Analítico em
 </p>
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
