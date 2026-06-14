@@ -1,6 +1,6 @@
 # Douglas Candido
 
-**`Analytics Engineer`**
+**`Data Science`**
 
 Me chamo Douglas Candido, tenho 21 anos e sou do interior de São Paulo. Concluí o ensino médio e dois cursos técnicos - Desenvolvimento de Sistemas e Redes de Computadores - pelo Centro Paula Souza.
 
