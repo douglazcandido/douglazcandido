@@ -1,6 +1,6 @@
 # Douglas Candido
 
-**`Data Science`**
+**`Data Enthusiast`**
 
 Me chamo Douglas Candido, tenho 22 anos e sou do interior de São Paulo. Concluí o ensino médio e dois cursos técnicos - Desenvolvimento de Sistemas e Redes de Computadores - pelo Centro Paula Souza.
 
