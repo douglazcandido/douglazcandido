@@ -10,4 +10,4 @@ Atualmente, curso Ciência de Dados na FIAP e atuo como Supervisor de TI em uma 
 
 ### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,supabase,docker,aws,mongodb,git,linux,postgres,fastapi,vscode,redis,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,supabase,docker,aws,mongodb,git,linux,postgres,fastapi,vscode,redis,postman,dynamodb,github,sklearn)](https://skillicons.dev)
