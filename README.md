@@ -39,12 +39,6 @@ douglas = {
 
 <br><br>
 
-### `> cat contact.log`
-
-<a href="https://douglazcandido.com"><img src="https://api.iconify.design/lucide/globe.svg?color=%23ffffff" width="40" height="40"/></a>
-<a href="https://github.com/douglazcandido"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"/></a>
-<a href="https://linkedin.com/in/douglazcandido"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40"/></a>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:0d1117&height=90&section=footer)
 
 </div>
