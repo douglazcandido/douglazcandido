@@ -37,8 +37,5 @@ douglas = {
 
 <img width="60%" src="https://skillicons.dev/icons?i=python,ts,react,fastapi,postgres,mongodb,redis,supabase,aws,docker,git,linux,sklearn,postman,vscode,obsidian&theme=dark&perline=8" />
 
-<br><br>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:0d1117&height=90&section=footer)
 
 </div>
