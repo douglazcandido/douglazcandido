@@ -2,8 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0b3d91&height=170&section=header&text=douglazcandido&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=root@data:~$%20access%20granted&descAlignY=58&descSize=16&descColor=ffffff&fontFamily=monospace)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=3B82F6&background=0D111700&center=true&vCenter=true&width=500&lines=%3E+whoami;Engenharia+de+Dados+%26+Backend;%3E+cat+stack.json;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+AWS;%3E+status;Dados+virando+decis%C3%A3o+em+produ%C3%A7%C3%A3o+%F0%9F%94%B5" />
-
 </div>
 
 <br>
