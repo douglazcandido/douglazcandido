@@ -25,7 +25,7 @@ douglas = {
 <td width="50%" valign="top">
 
 ### `> ./stats.sh`
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=douglazcandido&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=1F6FEB&text_color=c9d1d9" />
+<img width="100%" src="https://streak-stats.demolab.com?user=douglazcandido&theme=dark&hide_border=true&background=0D1117" />
 
 </td>
 </tr>
