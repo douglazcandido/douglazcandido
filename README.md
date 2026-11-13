@@ -1,9 +1,3 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0b3d91&height=170&section=header&text=douglazcandido&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=root@data:~$%20access%20granted&descAlignY=58&descSize=16&descColor=ffffff&fontFamily=monospace)
-
-</div>
-
 <br>
 
 <table align="center">
