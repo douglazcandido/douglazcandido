@@ -8,10 +8,10 @@
 ```python
 douglas = {
     "role": "IT Supervisor",
-    "focus": ["Data Eng", "Backend"],
+    "focus": ["Data Eng", "Software Eng"],
     "stack": ["Python", "FastAPI"],
     "cloud": "AWS",
-    "studying": "Data Science @ FIAP",
+    "higher-education": "Data Science @ FIAP",
 }
 ```
 
