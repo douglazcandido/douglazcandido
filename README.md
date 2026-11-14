@@ -27,9 +27,4 @@ douglas = {
 
 <div align="center">
 
-### `> ls skills/`
-
-<img width="60%" src="https://skillicons.dev/icons?i=python,ts,react,fastapi,postgres,mongodb,redis,supabase,aws,docker,git,linux,sklearn,postman,vscode,obsidian&theme=dark&perline=8" />
-
-
 </div>
